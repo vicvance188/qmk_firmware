@@ -18,3 +18,7 @@
 
 /* Enable caps-lock LED */
 #define CAPS_LOCK_LED_INDEX 45
+
+/* Enable custom effect */
+#define ENABLE_RGB_MATRIX_STATIC_ZONES
+#define RGB_MATRIX_DEFAULT_MODE RGB_MATRIX_STATIC_ZONES
