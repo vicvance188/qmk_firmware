@@ -291,3 +291,4 @@ extern last_hit_t g_last_hit_tracker;
 extern uint8_t g_rgb_frame_buffer[MATRIX_ROWS][MATRIX_COLS];
 #endif
 extern uint8_t zones[RGB_MATRIX_LED_COUNT];
+extern rgb_t rgb_z[];
